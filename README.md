@@ -1,4 +1,4 @@
-## ![kahfizulkifli's header](https://github.com/kahfizulkifli/kahfizulkifli/blob/main/KAHFI%20SOOBHAN%20ZULKIFLI.png)
+## ![kahfizulkifli's header](https://github.com/kahfizulkifli/kahfizulkifli/blob/main/images/KAHFI%20SOOBHAN%20ZULKIFLI.png)
 <!--
 Banner
 Brief description
