@@ -6,7 +6,7 @@ Social Media Links
 -->
 
 <p> Everything that I do, I always devote it to one idea </p>
-<h2 align="center"> “To motivate people to think outside-of-the box, so that, together, we can create a safer world.” </h2>
+<h2 align="center"> “To motivate people to think outside-of-the box, so that, together, we can revolutionize world.” </h2>
 
 
 <h2> Short bio </h2>
