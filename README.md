@@ -10,7 +10,7 @@ Social Media Links
 
 
 <h2> Short bio </h2>
-<p align = "left" > Hello there! People call me Kahfi, a future AI engineer. Here are my repos, which mainly include my coursework at Institut Teknologi Bandung. </p> 
+<p align = "left" > Hello there! People call me Kahfi, a future system engineer. Here are my repos, which mainly include my coursework at Institut Teknologi Bandung. </p> 
 
 ## Social Media
 <a href="https://facebook.com/kahfi.zulkifli"><img height="30" src="https://github.com/kahfizulkifli/kahfizulkifli/blob/main/images/fb.png"></a>&nbsp;&nbsp;
