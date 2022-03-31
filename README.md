@@ -1,4 +1,4 @@
-## ![kahfizulkifli's header](https://github.com/kahfizulkifli/kahfizulkifli/blob/main/images/KAHFI%20SOOBHAN%20ZULKIFLI.png)
+
 <!--
 Banner
 Brief description
@@ -10,7 +10,7 @@ Social Media Links
 
 
 <h2> Short bio </h2>
-<p align = "left" > Hello there! People call me Kahfi, a future system engineer. Here are my repos, which mainly include my coursework at Institut Teknologi Bandung. </p> 
+<p align = "left" > Hello there! People call me Kahfi, a future system engineer. Here are my repos, which mainly include my coursework at Institut Teknologi Bandung. I am currently part of the Garuda Ilmu Komputer Lab which provides undergraduate students from Indonesia to participate in research. I focus on Systems research and hopefully I can continue my studies abroad in the US.</p> 
 
 ## Social Media
 <a href="https://facebook.com/kahfi.zulkifli"><img height="30" src="https://github.com/kahfizulkifli/kahfizulkifli/blob/main/images/fb.png"></a>&nbsp;&nbsp;
